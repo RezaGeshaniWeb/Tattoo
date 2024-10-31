@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Open Sans", Tahoma, Arial, Helvetica;
+    /* font-family: "Cinzel Decorative", serif; */
+    width: 100%;
+    user-select: none;
+    /* overflow-x: hidden; */
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    
+    &:visited {
+        color: inherit;
+    }
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
