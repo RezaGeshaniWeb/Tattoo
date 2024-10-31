@@ -1,9 +1,10 @@
 # Tattoo
 
-![Alt text](https://github.com/user-attachments/assets/f3df9daf-eb91-4f59-80b6-906a78eb483f)
+![Alt text](https://github.com/user-attachments/assets/09b83f96-b76a-45a1-8bdb-49285c2caa89)
 
 
-![Alt text](https://github.com/user-attachments/assets/56e58f61-9723-48f0-9e8b-74d769c258fb)
+![Alt text](https://github.com/user-attachments/assets/be1354df-ca71-4d3b-80fa-87edf0ef7880)
+
 
 - [Demo Project](https://rezageshaniweb.github.io/Tattoo/)
 
