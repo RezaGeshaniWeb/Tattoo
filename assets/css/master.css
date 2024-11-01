@@ -944,11 +944,11 @@ main {
                         height: 75px;
                         display: flex;
                         align-items: center;
-                        transition: .6s;
+                        transition: .8s;
                         cursor: pointer;
 
                         &:hover {
-                            box-shadow: inset 500px 0 var(--color-primary);
+                            box-shadow: inset 1000px 0 var(--color-primary);
                             border-color: var(--dark);
 
                             >i {
